@@ -1,4 +1,4 @@
 geokit-gem
 ==========
 
-Geokit can be found at https://github.com/imajes/geokit
+Geokit can be found at https://github.com/geokit/geokit
